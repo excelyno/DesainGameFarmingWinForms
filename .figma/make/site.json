@@ -1,0 +1,10 @@
+{
+  "description": "Explore a cozy farming game design with a welcoming start screen and interactive mechanics for hoeing, planting, and tending crops.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
